@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.101/FictionReader.ipa</string>
+					<string>https://raw.githubusercontent.com/Wongweiwei/App/master/FictionReader.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>滴滴社区</string>
+				<string>FictionReader</string>
 			</dict>
 		</dict>
 	</array>
